@@ -1,4 +1,4 @@
-/*
+/**
 * A simple file to validate your automated test setup for AESD
 */
 
